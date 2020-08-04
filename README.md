@@ -3,6 +3,7 @@
 This is an extremely simple API I set up for the Nokori back-end coding challenge. It mocks API's used by companies such as AirBnB and VRBO. The specific home listings used as mock data can be found here:
 
 https://www.vrbo.com/4295070ha 
+
 https://www.airbnb.com/rooms/15904361?source_impression_id=p3_1596226567_MPLXxi3y0o1pA87L
 
 When it comes to testing the endpoints of this API, I used Insomnia but other alternatives such as Postman will work as well. 
