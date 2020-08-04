@@ -1,0 +1,32 @@
+{
+  "testing": {
+    "username": "testing",
+    "password": "$2a$12$f4FU1w6hMCooyon1dB7hg.N78EvIwcScfJcxKdBF1BWzYplnB8POy",
+    "userId": 1
+  },
+  "testing123": {
+    "username": "testing123",
+    "password": "$2a$12$wxk1Znzln2xI6E.6EZ9efOfdy2ksaDwZR6Ik5U48AUAf5smTD8P3O",
+    "userId": 2
+  },
+  "cory": {
+    "username": "cory",
+    "password": "$2a$12$a9NjzjexY4/b4A8SzWfNdupvyUJ7k74lNDkNpq.6NwKxe.tJcAFTS",
+    "userId": 3
+  },
+  "jimmy": {
+    "username": "jimmy",
+    "password": "$2a$12$kzUY.7Rq8R6nDdbxVw2/4eeDCz.HZMZmr1e8c2Fx2mzpg2dxZxbMi",
+    "userId": 4
+  },
+  "alfredo": {
+    "username": "alfredo",
+    "password": "$2a$12$SCLQUKOmg4O/NyqCuQNSzeIETewP4LN.FNz6Fa5ak.H7YUXln4txG",
+    "userId": 5
+  },
+  "james": {
+    "username": "james",
+    "password": "$2a$12$7YAmKFzAvvyAIxAyx4eJ1OXMLlwsc0GguDQyUSR/D8Uh9B..j6NSW",
+    "userId": 6
+  }
+}

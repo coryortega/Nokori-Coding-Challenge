@@ -1,0 +1,27 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Lakeland Village #454 - 4BR + Loft, Walk to Lake, Fun & Convenient!",
+    "images": [
+      "https://odis.homeaway.com/odis/listing/6d442fb3-19c6-4240-9f73-fe1231cc257c.f10.jpg",
+      "https://odis.homeaway.com/odis/listing/b097e65a-e78e-4dea-9c20-6e3ea90ec424.f10.jpg",
+      "https://odis.homeaway.com/odis/listing/84c164f0-c31b-444a-a031-6d4989565cef.f10.jpg",
+      "https://odis.homeaway.com/odis/listing/2ed1febf-1994-41b6-bdf2-8fe7fdc67b20.f10.jpg"
+    ],
+    "description": "As you enter onto level 1, you will see bedrooms 1, 2, and 3. Bedroom 1 is the master bedroom with a king-sized bed, HDTV, and full bathroom with a walk-in shower. Bedroom 2 has 1 queen bed and shares the full hall bathroom, which has a shower/tub combination. Bedroom 3 has 2 queen beds and shares the full hall bathroom as well.",
+    "bedrooms": 4,
+    "bathrooms": 3
+  },
+  "2": {
+    "id": 2,
+    "title": "Cabo Center,Ocean view Great price!",
+    "images": [
+      "https://a0.muscache.com/im/pictures/038932a1-25a3-4140-9b28-0078a72e281a.jpg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/2c34124a-003a-4581-9aff-9318276342da.jpg?im_w=1440",
+      "https://www.airbnb.com/rooms/15904361/photos/304625194?source_impression_id=p3_1596226567_MPLXxi3y0o1pA87L"
+    ],
+    "description": "This is a very cute Palapa suite separate from the main house with ocean view over looking Cabo with patio. All restaurant, bars, beaches are a stone throw away. Located in Cabo's cultural center there is no need for a car. California king bed with ensuite bathroom and shower!",
+    "bedrooms": 1,
+    "bathrooms": 1
+  }
+}
