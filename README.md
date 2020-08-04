@@ -13,6 +13,11 @@ When it comes to testing the endpoints of this API, I used Insomnia but other al
 - Only the auth system is currently being unit tested, I would like to include more
 - Write better documentation
 
+**Things I plan to do:**
+- Set up a PostgreSQL database in lieu of the mock JSON being used
+- Create a React frontend that renders this data
+- Boom, new portfolio piece
+
 ## Setup
 
 Setup for this API is extremely simple, as I tried to keep it as bare-bones as possible.
