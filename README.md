@@ -8,8 +8,9 @@ https://www.airbnb.com/rooms/15904361?source_impression_id=p3_1596226567_MPLXxi3
 
 When it comes to testing the endpoints of this API, I used Insomnia but other alternatives such as Postman will work as well. 
 
-****Things I would do if I had the time:**
+****Little things I would change if I had the time:**
 - Cut a few functions out that are repeated and seperate them into helper files
+- The users object uses username's as a key, that is not ideal and only for convenience
 - Change the routing of authorization so it isn't explicitly called on each route
 - Only the auth system is currently being unit tested, I would like to include more
 - Write better documentation
